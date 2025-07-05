@@ -1,1 +1,1 @@
-### Welcome to my ML Proejct Repository 
+### Welcome to my ML Project Repository 
